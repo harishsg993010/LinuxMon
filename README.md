@@ -2,9 +2,13 @@
 An Opensource tool for Process monitoring in Linux (Process Open , Process Close , Networking , Library loads)
 
 # Purpose
-1. logging which might help forensic analyst to investigate a cyber attack
+1. logging which might help forensic analyst to investigate a cyber attack involving linux ecosystem
+2. To help Malware analysts to do dynamic anakysis on linux malware
 
 ## Intructions
 1. sudo chmod +777 linuxmon.sh
 2. sudo ./linuxmon.sh
 3. log files will be saved in /var/linuxmon/log
+
+## Recomondations
+1. Turn this script into linux daemon so that you can control using systemctl
