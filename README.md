@@ -2,7 +2,7 @@
 An Opensource tool for Event monitoring in Linux (Process creation , Process Close , Networking , Library loads)
 
 # Purpose
-1. To help Malware analysts to do dynamic anaklsis on linux malware
+1. To help Malware analysts to do dynamic analysis on linux malware
 2. To help incident response team to investigate incident
 
 ## Intructions
