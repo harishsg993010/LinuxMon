@@ -1,5 +1,5 @@
 # LinuxMon
-An Opensource tool for Event monitoring in Linux (Process creation , Process Close , Networking , Library loads)
+An Opensource tool for Event monitoring and logging in Linux (Process creation , Process Close , Networking , Library loads)
 
 # Purpose
 1. To help Malware analysts to do dynamic analysis on linux malware
