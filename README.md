@@ -11,4 +11,4 @@ An Opensource tool for Process monitoring in Linux (Process creation , Process C
 3. log files will be saved in /var/linuxmon/log
 
 ## Recomondations
-1. Turn this script into linux daemon so that you can control using systemctl
+1. Turn this script into linux daemon using systemctl
