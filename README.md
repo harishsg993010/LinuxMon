@@ -5,7 +5,7 @@ An Opensource tool for Event monitoring in Linux (Process creation , Process Clo
 1. To help Malware analysts to do dynamic analysis on linux malware
 2. To help incident response team to investigate incident
 
-## Intructions
+## Instructions
 1. sudo chmod +777 linuxmon.sh
 2. sudo ./linuxmon.sh
 3. log files will be saved in /var/linuxmon/log
