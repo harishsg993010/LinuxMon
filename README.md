@@ -2,8 +2,8 @@
 An Opensource tool for Event monitoring in Linux (Process creation , Process Close , Networking , Library loads)
 
 # Purpose
-1. logging which might help forensic analyst to investigate a cyber attack involving linux ecosystem
-2. To help Malware analysts to do dynamic anakysis on linux malware
+1. To help Malware analysts to do dynamic anaklsis on linux malware
+2. To help incident response team to investigate incident
 
 ## Intructions
 1. sudo chmod +777 linuxmon.sh
